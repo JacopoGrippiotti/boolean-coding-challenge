@@ -1,0 +1,79 @@
+
+.logo-text{
+    color:rgb(1, 234, 1);
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.container{
+    width:1050px;
+    height:765px;
+    margin:auto;
+    text-align:center;
+    background-color: rgba(10, 10, 16, 0.61);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.logo{
+    width:240px;
+    margin-top: 100px;
+}
+
+#sfondo-principale{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+}
+
+li{
+    display: inline;
+}
+
+#navigation-bar{
+    background-color: rgb(1, 234, 1);
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-top:7px;
+    padding-bottom:7px;
+}
+main{
+    text-align: left;
+    margin-left: 80px;
+}
+label{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#Gino{
+    height:27px;
+    width: 340px;
+    background-color:rgb(237, 191, 121) ;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+#Mike{
+    height: 27px;
+    width: 550px;
+    background-color: limegreen;
+    margin-bottom: 25px;
+    border-radius: 8px;
+}
+
+#Fede{
+    height: 27px;
+    width: 100px;
+    background-color: rgb(206, 87, 87);
+    border-radius: 8px;
+}
+
